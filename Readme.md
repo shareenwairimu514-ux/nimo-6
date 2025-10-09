@@ -75,7 +75,10 @@ Tested and works well on:
 
  . Screenshot
 ![Form Preview](./screenshots/form-desktop.png)
-<img width="1366" height="720" alt="Screenshot 2025-10-08 124304" src="https://github.com/user-attachments/assets/b59c92be-8868-4de9-87ed-c3e0db810e30" />
+<img width="1366" height="768" alt="Screenshot 2025-10-09 095304" src="https://github.com/user-attachments/assets/83861286-f922-4ae0-874d-5365a6caf68b" />
+<img width="1366" height="768" alt="Screenshot 2025-10-09 095817" src="https://github.com/user-attachments/assets/d1085718-b4fa-49ad-8eba-90362b46e167" />
+<img width="1366" height="768" alt="Screenshot 2025-10-09 100023" src="https://github.com/user-attachments/assets/8299167a-7121-43cd-aa1d-309a89d6d436" />
+
 
 
 
